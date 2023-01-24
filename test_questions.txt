@@ -1,0 +1,60 @@
+1. What is Unix?
+a) Unix is a programming language
+b) Unix is a software program
+c) Unix is an operating system
+d) Unix is a text editor
+
+2. The Unix shell is both _______ and _______ language.
+a) scripting, interpreter
+b) high level, low level
+c) interactive, responsive
+d) interpreter, executing
+
+3. In which language UNIX is written?
+a) C++
+b) C
+c) JAVA
+d) Python
+
+4. Which of the following is the first UNIX editor?
+a) vi
+b) emacs
+c) ex
+d) ed
+
+5. Which of the following is not a feature of Unix?
+a) multiuser
+b) easy to use
+c) multitasking
+d) portability
+
+6. Which of the following is not a part of all the versions of Unix?
+a) System Calls
+b) Graphical user interface
+c) Kernel and Shell
+d) Commands and utilities
+
+7. Which editor is used by the Unix system to edit files?
+a) word
+b) notepad++
+c) vi
+d) notepad
+
+8. Which Unix command is used for changing the current directory?
+a) pwd
+b) rm
+c) cd
+d) cp
+
+9. Which part of the Unix operating system interacts with the hardware?
+a) Application program
+b) Vi editor
+c) Shell
+d) Kernel
+
+10. Which command is used to display the documentation of commands in Unix?
+a) man
+b) whatis
+c) help
+d) search
+
